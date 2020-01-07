@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polinomial", "Polinomial\Polinomial.csproj", "{EA1B7C40-B145-45E4-A730-A58D18CE6433}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA1B7C40-B145-45E4-A730-A58D18CE6433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA1B7C40-B145-45E4-A730-A58D18CE6433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA1B7C40-B145-45E4-A730-A58D18CE6433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA1B7C40-B145-45E4-A730-A58D18CE6433}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B86F82F2-81F8-43A4-9EFA-8FFC1F11AAF7}
+	EndGlobalSection
+EndGlobal
