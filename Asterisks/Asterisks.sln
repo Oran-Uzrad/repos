@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Asterisks1", "Asterisks1\Asterisks1.csproj", "{FFAD5FF1-0445-44C3-8E75-BD6BCF698F46}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Asterisks2", "Asterisks2\Asterisks2.csproj", "{3567F12A-C05A-42C1-9088-A4CC4A789B96}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Asterisks3", "Asterisks3\Asterisks3.csproj", "{F034FDE7-BAE0-44F1-9B9A-04003D877E4C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Circular Assignment", "Circular Assignment\Circular Assignment.csproj", "{B485BA43-2D3C-47CC-BEEF-DE80A23BD1EF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "F2C", "F2C\F2C.csproj", "{E8292F3C-EE31-4A3F-8552-BC962F2593C0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome", "Palindrome\Palindrome.csproj", "{7E228DD3-2CC8-4EB3-A9E6-96E460FBB72E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimationAssignment", "AnimationAssignment\AnimationAssignment.csproj", "{61ABEAE5-31BE-448B-980D-939FEBE256FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFAD5FF1-0445-44C3-8E75-BD6BCF698F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFAD5FF1-0445-44C3-8E75-BD6BCF698F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFAD5FF1-0445-44C3-8E75-BD6BCF698F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFAD5FF1-0445-44C3-8E75-BD6BCF698F46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3567F12A-C05A-42C1-9088-A4CC4A789B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3567F12A-C05A-42C1-9088-A4CC4A789B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3567F12A-C05A-42C1-9088-A4CC4A789B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3567F12A-C05A-42C1-9088-A4CC4A789B96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F034FDE7-BAE0-44F1-9B9A-04003D877E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F034FDE7-BAE0-44F1-9B9A-04003D877E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F034FDE7-BAE0-44F1-9B9A-04003D877E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F034FDE7-BAE0-44F1-9B9A-04003D877E4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B485BA43-2D3C-47CC-BEEF-DE80A23BD1EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B485BA43-2D3C-47CC-BEEF-DE80A23BD1EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B485BA43-2D3C-47CC-BEEF-DE80A23BD1EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B485BA43-2D3C-47CC-BEEF-DE80A23BD1EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8292F3C-EE31-4A3F-8552-BC962F2593C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8292F3C-EE31-4A3F-8552-BC962F2593C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8292F3C-EE31-4A3F-8552-BC962F2593C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8292F3C-EE31-4A3F-8552-BC962F2593C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E228DD3-2CC8-4EB3-A9E6-96E460FBB72E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E228DD3-2CC8-4EB3-A9E6-96E460FBB72E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E228DD3-2CC8-4EB3-A9E6-96E460FBB72E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E228DD3-2CC8-4EB3-A9E6-96E460FBB72E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61ABEAE5-31BE-448B-980D-939FEBE256FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61ABEAE5-31BE-448B-980D-939FEBE256FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61ABEAE5-31BE-448B-980D-939FEBE256FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61ABEAE5-31BE-448B-980D-939FEBE256FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4647894A-A0F8-41D4-A21B-9300AF25071F}
+	EndGlobalSection
+EndGlobal
