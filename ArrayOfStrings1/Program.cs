@@ -7,7 +7,7 @@ namespace ArrayOfStrings1
         static void Main(string[] args)
         {
             string[] arr1;
-            string[] arr2 = { "Jiraffe", "Wolf", "Lion", "Mouse" };
+            string[] arr2 = { "Jaguar", "Wolf", "Lion", "Mouse" };
             string[] arr3 = new string[4];
 
             arr3[2] = "Shark";
