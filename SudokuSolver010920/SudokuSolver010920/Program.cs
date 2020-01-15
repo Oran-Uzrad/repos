@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SudokuSolver010920
+namespace SudokuSolver011520
 {
     class Program
     {
